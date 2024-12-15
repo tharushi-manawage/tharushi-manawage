@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 <img alt="MY STATS" align="left" width="45%" height="190px" src="https://github-readme-stats.vercel.app/api?username=tharushi-manawage&show_icons=true&theme=gruvbox"/>
 
 <img alt="TOP LANGUAGES" align="left" width="45%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi-manawage&layout=compact&theme=gruvbox"/>
+
+<img alt="CONTRIBUTIONS GRID" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"/>
