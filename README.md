@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 <img alt="TOP LANGUAGES" align="left" width="45%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi-manawage&layout=compact&theme=gruvbox"/>
 
-<img alt="CONTRIBUTIONS GRID" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"/>
-
 <div align="center">
-  <!--![snake gif](https://github.com/tharushi-manawage/tharushi-manawage/blob/output/github-snake-dark.svg)-->
+  <!--  <img alt="CONTRIBUTIONS GRID" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"/>  -->
+  
+  <!--  ![snake gif](https://github.com/tharushi-manawage/tharushi-manawage/blob/output/github-snake-dark.svg)  -->
   <img alt="MY CONTRIBUTIONS GRID" src="https://github.com/tharushi-manawage/tharushi-manawage/blob/output/github-snake-dark.svg"/>
 </div>
