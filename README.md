@@ -1,4 +1,4 @@
-## Hello there, I'm Tharushi 👋
+## Hello there, I'm Tharushi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 
 <!--
 **tharushi-manawage/tharushi-manawage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
