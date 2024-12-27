@@ -24,13 +24,13 @@ Here are some ideas to get you started:
 <br>
 
 <div align="center">
-  <img alt="MY STREAK STATS" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=tharushi-manawage&theme=gruvbox&border_radius=3%"/> <br>
+  <img alt="MY STREAK STATS" src="https://github-readme-streak-stats.herokuapp.com/?user=tharushi-manawage&theme=gruvbox&border_radius=3%"/> <br>
 
   <!-- ![tharushi's github stats](https://github-readme-stats.vercel.app/api?username=tharushi-manawage&show_icons=true&theme=gruvbox)  -->
-  <img alt="MY STATS" width="45%" src="https://github-readme-stats.vercel.app/api?username=tharushi-manawage&show_icons=true&theme=gruvbox&border_radius=15%"/> <br>
+  <img alt="MY STATS" src="https://github-readme-stats.vercel.app/api?username=tharushi-manawage&show_icons=true&theme=gruvbox&border_radius=15%"/> <br>
 
   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi-manawage&layout=compact&theme=gruvbox) -->
-  <img alt="TOP LANGUAGES" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi-manawage&layout=compact&theme=gruvbox&border_radius=10%"/>
+  <img alt="TOP LANGUAGES" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi-manawage&layout=compact&theme=gruvbox&border_radius=10%"/>
 </div>
 
 <br>
