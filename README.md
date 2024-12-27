@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 
 <p align="center"> <b> Welcome to my GitHub Profile! </b> </p>
 
-<p align="center">
-  <img alt="PROFILE VIEWS" src="https://komarev.com/ghpvc/?username=tharushi-manawage"/>
-</p>
-
 <br>
 
 <div align="center">
@@ -55,5 +51,9 @@ Here are some ideas to get you started:
 <br>
 
 ##
+
+<p align="center">
+  <img alt="PROFILE VIEWS" src="https://komarev.com/ghpvc/?username=tharushi-manawage"/>
+</p>
 
 <p align="center"> ©Tharushi Manawage </p>
