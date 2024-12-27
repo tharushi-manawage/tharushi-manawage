@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   ##
 
   <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi-manawage&layout=compact&theme=gruvbox) -->
-  <img alt="TOP LANGUAGES" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi-manawage&layout=compact&theme=gruvbox&border_radius=10%"/>
+  <img alt="TOP LANGUAGES" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi-manawage&layout=compact&theme=gruvbox&border_radius=15%"/>
 </div>
 
 <br>
