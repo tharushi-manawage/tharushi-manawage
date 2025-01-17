@@ -1,4 +1,6 @@
-<h1> <img alt="👋" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> Hey there, I'm Tharushi. </h1>
+<h1>
+  <img alt="👋" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> Hey there, I'm <a href="https://www.google.com/search?q=tharushi+manawage/">Tharushi</a>.
+</h1>
 
 <!--
 **tharushi-manawage/tharushi-manawage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,23 +20,31 @@ Here are some ideas to get you started:
 <p align="center"> <b> Welcome to my GitHub Profile! </b> </p>
 
 <p align="center">
-  <img alt="PROFILE VIEWS" src="https://komarev.com/ghpvc/?username=tharushi-manawage"/>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=tharushi-manawage&label=Profile%20Views&color=238636&style=social"/>
+  <img alt="Followers" src="https://img.shields.io/github/followers/tharushi-manawage?style=social"/>
 </p>
 
 <br>
 
 <div align="center">
-  <img alt="MY STREAK STATS" src="https://github-readme-streak-stats.herokuapp.com/?user=tharushi-manawage&theme=gruvbox&border_radius=3%"/>
+  <img alt="My Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=tharushi-manawage&theme=gruvbox&border_radius=2.5%"/>
+ 
+  ##
+  
+  <!--
+  ![tharushi's github stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tharushi-manawage&theme=gruvbox)
+  <img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tharushi-manawage&theme=gruvbox&border_radius=12%"/>
 
   ##
+  -->
 
   <!-- ![tharushi's github stats](https://github-readme-stats.vercel.app/api?username=tharushi-manawage&show_icons=true&theme=gruvbox)  -->
-  <img alt="MY STATS" src="https://github-readme-stats.vercel.app/api?username=tharushi-manawage&show_icons=true&theme=gruvbox&border_radius=15%"/>
+  <img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=tharushi-manawage&show_icons=true&theme=gruvbox&border_radius=12%"/>
 
   ##
 
-  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi-manawage&layout=compact&theme=gruvbox) -->
-  <img alt="TOP LANGUAGES" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi-manawage&layout=compact&theme=gruvbox&border_radius=15%"/>
+  <!-- ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi-manawage&layout=compact&theme=gruvbox) -->
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi-manawage&layout=compact&theme=gruvbox&border_radius=12%"/>
 </div>
 
 <br>
@@ -50,14 +60,30 @@ Here are some ideas to get you started:
 ## My Contribution Activities
 
 <div align="center">
-  <!--  <img alt="CONTRIBUTIONS GRID" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"/>  -->
+  <!--  <img alt="Contributions Grid" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"/>  -->
   
   <!--  ![snake gif](https://github.com/tharushi-manawage/tharushi-manawage/blob/output/github-snake-dark.svg)  -->
-  <img alt="MY CONTRIBUTIONS GRID" src="https://github.com/tharushi-manawage/tharushi-manawage/blob/output/github-snake-dark.svg"/>
+  <img alt="My Contributions Grid" src="https://github.com/tharushi-manawage/tharushi-manawage/blob/output/github-snake-dark.svg"/>
 </div>
 
 <br>
 
 ##
 
-<p align="center"> ©Tharushi Manawage </p>
+<p align="center"> ©Tharushi Manawage
+  <a href="mailto:tharushimanawage02@gmail.com">
+    <img align="center" alt="Gmail" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="30" height="25"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tharushi-manawage/">
+    <img align="center" alt="LinkedIn" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="30" height="25"/>
+  </a>
+  <a href="https://www.stackoverflow.com/users/27070296/tharushi-manawage/">
+    <img align="center" alt="StackOverflow" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="30" height="25"/>
+  </a>
+  <a href="https://discord.gg/hFBtSG7ABZ/">
+    <img align="center" alt="Discord" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="30" height="25"/>
+  </a>
+  <a href="https://www.instagram.com/tharushiey/">
+    <img align="center" alt="Instagram" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="30" height="25"/>
+  </a>
+</p>
