@@ -1,5 +1,5 @@
 <h1>
-  <img alt="👋" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> Hey there, I'm <a href="https://www.google.com/search?q=tharushi+manawage/">Tharushi</a>.
+  <img alt="👋" width="30px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif"> Hey there, I'm <a href="https://www.google.com/search?q=tharushi+manawage">Tharushi</a>.
 </h1>
 
 <!--
