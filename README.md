@@ -70,6 +70,42 @@ Here are some ideas to get you started:
 
 ## Connect With Me
 
+<table align="center">
+  <tr>
+    <td>
+      Gmail <a href="mailto:tharushimanawage02@gmail.com">
+        <img align="center" alt="Gmail" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" width="23" height="23"/>
+      </a>
+    </td>
+    <td>
+      LinkedIn <a href="https://www.linkedin.com/in/tharushi-manawage/">
+        <img align="center" alt="LinkedIn" src="https://img.icons8.com/?size=100&id=vWcULbkKy3DN&format=png&color=000000" width="24.5" height="24"/> 
+      </a>
+    </td>
+    <td>
+      Quora <a href="https://www.quora.com/profile/tharushi-manawage/">
+        <img align="center" alt="Quora" src="https://img.icons8.com/?size=100&id=JBLBSakc5ita&format=png&color=B92B27" width="25" height="25"/>
+      </a>
+    </td>
+    <td>
+      StackOverflow <a href="https://www.stackoverflow.com/users/27070296/tharushi-manawage/">
+        <img align="center" alt="StackOverflow" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="25" height="20"/>
+      </a>
+    </td>
+    <td>
+      Discord <a href="https://discord.gg/hFBtSG7ABZ/">
+        <img align="center" alt="Discord" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="25" height="20"/>
+      </a>
+    </td>
+    <td>
+      Instagram <a href="https://www.instagram.com/tharushiey/">
+        <img align="center" alt="Instagram" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="25" height="20"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!--
 <p align="left">
   - Gmail <a href="mailto:tharushimanawage02@gmail.com">
     <img align="center" alt="Gmail" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" width="23" height="23"/>
@@ -90,6 +126,7 @@ Here are some ideas to get you started:
     <img align="center" alt="Instagram" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="25" height="20"/>
   </a> <br>
 </p>
+-->
 
 ##
 
