@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ## My Technology Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,java,javascript,ts,bootstrap,angular,spring,nodejs,npm,express,nestjs,mysql,postgres,docker,git,github,postman,googlecloud,windows,linux,figma&theme=light">
+  <img src="https://skillicons.dev/icons?i=html,css,java,javascript,ts,bootstrap,angular,spring,nodejs,npm,express,nestjs,mysql,postgres,docker,git,github,postman,googlecloud,windows,linux,figma,vscode&theme=light">
 </p>
 
 <br>
