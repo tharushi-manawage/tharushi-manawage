@@ -38,12 +38,12 @@ Here are some ideas to get you started:
   ##
   -->
 
-  <!-- ![tharushi's github stats](https://github-readme-stats.vercel.app/api?username=tharushi-manawage&show_icons=true&theme=gruvbox)  -->
+  <!--  ![tharushi's github stats](https://github-readme-stats.vercel.app/api?username=tharushi-manawage&show_icons=true&theme=gruvbox)  -->
   <img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=tharushi-manawage&show_icons=true&theme=gruvbox&border_radius=12%"/>
 
   ##
 
-  <!-- ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi-manawage&layout=compact&theme=gruvbox) -->
+  <!--  ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi-manawage&layout=compact&theme=gruvbox)  -->
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tharushi-manawage&layout=compact&theme=gruvbox&border_radius=12%"/>
 </div>
 
@@ -51,8 +51,37 @@ Here are some ideas to get you started:
 
 ## My Technology Stack
 
+<!--
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,java,javascript,ts,bootstrap,angular,nodejs,npm,spring,express,nestjs,mysql,postgres,docker,git,github,postman,googlecloud,windows,linux,figma,vscode&theme=light">
+   <img src="https://skillicons.dev/icons?i=html,css,python,java,javascript,ts,bootstrap,angular,nodejs,npm,spring,express,nestjs,mysql,postgres,docker,git,github,postman,googlecloud,windows,linux,figma,vscode&theme=light"> 
+</p>
+-->
+
+<p>
+  <a href="https://html.com/document/"><img src="https://skillicons.dev/icons?i=html&theme=light"></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=css&theme=light"></a>
+  <a href="https://docs.python.org/3/"><img src="https://skillicons.dev/icons?i=python&theme=light"></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=java&theme=light"></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=javascript&theme=light"></a>
+  <a href="https://www.typescriptlang.org/docs/handbook/intro.html"><img src="https://skillicons.dev/icons?i=ts&theme=light"></a>
+  <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"><img src="https://skillicons.dev/icons?i=bootstrap&theme=light"></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=angular&theme=light"></a>
+  <a href="https://nodejs.org/docs/latest/api/"><img src="https://skillicons.dev/icons?i=nodejs&theme=light"></a>
+  <a href="https://docs.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm&theme=light"></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=spring&theme=light"></a>
+  <a href="https://expressjs.com/"><img src="https://skillicons.dev/icons?i=express&theme=light"></a>
+  <a href="https://docs.nestjs.com/"><img src="https://skillicons.dev/icons?i=nestjs&theme=light"></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=mysql&theme=light"></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=postgres&theme=light"></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=docker&theme=light"></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=git&theme=light"></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=github&theme=light"></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=postman&theme=light"></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=googlecloud&theme=light"></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=windows&theme=light"></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=linux&theme=light"></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=figma&theme=light"></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=vscode&theme=light"></a>
 </p>
 
 <br>
