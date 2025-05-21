@@ -65,7 +65,7 @@ Here are some ideas to get you started:
   <a href=""><img src="https://skillicons.dev/icons?i=javascript&theme=light"></a>
   <a href="https://www.typescriptlang.org/docs/handbook/intro.html"><img src="https://skillicons.dev/icons?i=ts&theme=light"></a>
   <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/"><img src="https://skillicons.dev/icons?i=bootstrap&theme=light"></a>
-  <a href=""><img src="https://skillicons.dev/icons?i=angular&theme=light"></a>
+  <a href="https://angular.dev/overview"><img src="https://skillicons.dev/icons?i=angular&theme=light"></a>
   <a href="https://nodejs.org/docs/latest/api/"><img src="https://skillicons.dev/icons?i=nodejs&theme=light"></a>
   <a href="https://docs.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm&theme=light"></a>
   <a href=""><img src="https://skillicons.dev/icons?i=spring&theme=light"></a>
